@@ -1,7 +1,7 @@
 /*Nama File : FaktorBil.c */
 /*Deskripsi : Membuat algoritma untuk menentukan faktor bilangan dari bilangan integer sembarang*/
 /*Pembuat : Novi Dwi Fitriani - 24060121120027*/
-/*Tanggal : Kamis, 17 Maret 2022 00.10 WIB*/
+/*Tanggal : Selasa, 15 Maret 2022 22.10 WIB*/
 #include <stdio.h>
 #include <stdlib.h>
 

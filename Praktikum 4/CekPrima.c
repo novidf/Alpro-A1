@@ -1,7 +1,7 @@
 /*Nama File : CekPrima.c */
 /*Deskripsi : Membuat algoritma untuk menentukan apakah bilangan integer sembarang merupakan bilangan prima*/
 /*Pembuat : Novi Dwi Fitriani - 24060121120027*/
-/*Tanggal : Kamis, 17 Maret 2022 01.36 WIB*/
+/*Tanggal : Selasa, 15 Maret 2022 23.08 WIB*/
 #include <stdio.h>
 #include <stdlib.h>
 
